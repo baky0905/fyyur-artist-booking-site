@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\appl\\Miniconda3\\envs\\fyyur\\python.exe",
+    "python.formatting.provider": "black"
+}
